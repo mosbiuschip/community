@@ -1,6 +1,6 @@
 # community
 ## Discussions
-This repo hosts the community discussions, Q&A, announcements etc. for the [MOSbius](https://mosbius.org) project. 
+This repo hosts the [community discussions, Q&A, announcements etc.](https://github.com/mosbiuschip/community/discussions) for the [MOSbius](https://mosbius.org) project. 
 
 ## 📜 License
 
